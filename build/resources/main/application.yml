@@ -1,0 +1,5 @@
+url:
+  server: http://localhost:8081/
+  directory: /Users/jeonghyeongbin/Desktop/Local
+  json: /Users/jeonghyeongbin/Desktop/Local/test.json
+
